@@ -1,1 +1,1 @@
-"https://raw.githubusercontent.com/dsfsi/flores-fix-4-africa/main/data"
+https://raw.githubusercontent.com/dsfsi/flores-fix-4-africa/main/data
